@@ -1,0 +1,10 @@
+.sahas {
+  height: 50rem;
+  width: 50rem;
+
+  background-color: blue;
+  font-size: 10px;
+  font-family: fantasy;
+  border: 3px dotted red;
+  border-radius: 30rem;
+}
